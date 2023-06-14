@@ -19,10 +19,10 @@
 
 ### Github Analytics
 <a href="https://github.com/Jonas1645">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jonas1645&count_private=true&show_icons=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jonas1645&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 
 ### Most Used Languages
 <a href="https://github.com/Jonas1645">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas1645&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonas1645&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS&langs_count=10" />
 </a>
