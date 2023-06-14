@@ -1,4 +1,4 @@
-"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Kai-Zhong+Chen;Hello%2C+Visitor" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=My+name+is+Kai-Zhong+Chen;Hello%2C+Visitor" alt="Typing SVG" /></a>
 
 - 🔭 I’m currently studing in Asia University.
 - 🌱 I’m currently learning Information Engineering.
